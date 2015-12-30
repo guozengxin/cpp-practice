@@ -16,3 +16,9 @@ add_executable(fread "fread.cpp")
 add_executable(mutable_member "mutable_member.cpp")
 
 add_executable(initializer "initializer.cpp")
+
+add_executable(bsearch "binary_search.cpp")
+
+add_executable(print_array "print_array.cpp")
+
+add_executable(a "a.cpp")

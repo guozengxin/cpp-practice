@@ -21,4 +21,8 @@ add_executable(bsearch "binary_search.cpp")
 
 add_executable(print_array "print_array.cpp")
 
+add_executable(calc "calculator.cpp")
+
+add_executable(valist "valist.cpp")
+
 add_executable(a "a.cpp")
